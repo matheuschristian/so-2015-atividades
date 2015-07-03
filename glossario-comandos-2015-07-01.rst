@@ -132,3 +132,6 @@ write
   Permite escrever informações e trocar de mensagens com outro usuário.
   exemplo de uso: write matheus "Olá, mundo!"
 
+type
+  Diz o tipo da variável. 
+  exemplo: "Type + comando"
