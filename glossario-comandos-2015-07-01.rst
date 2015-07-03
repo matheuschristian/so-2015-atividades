@@ -53,7 +53,7 @@ ifconfig
 
 
 last
-  Descrição do comando
+  Exibe todas as informações referentes a entrada (login) e saída (logout) de usuários do sistema.
 
 
 lastb
@@ -82,15 +82,15 @@ pwd
 
 
 set
-  Descrição do comando
+  Exibe, define ou remove variáveis de ambiente.
 
 
 tree
-  Descrição do comando
+  Função parecida com o comando ls, porem ele lista o conteúdo de um diretório usando o formato de árvore.
 
 
 tty
-  Descrição do comando
+  Comando mostra o nome do arquivo conectado à entrada padrão.
 
 
 vim
@@ -102,15 +102,23 @@ wait
 
 
 wall
-  Descrição do comando
+  Manda mensagem e permite que todos logados possam ver.
 
 
 which
-  Descrição do comando
+  São usados para realizar a busca de arquivos no sistema de forma muito rápida.
 
 
 while
-  Descrição do comando
+  permite que um certo trecho de programa seja executado ENQUANTO uma certa condição for verdadeira.
+  Exemplos de uso:
+  
+  while (condição) 
+{ 
+// comandos a serem repetidos 
+// comandos a serem repetidos 
+} 
+// comandos após o 'while'
 
 
 who
