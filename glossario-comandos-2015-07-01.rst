@@ -24,7 +24,8 @@ cowsay
 
 
 echo
-  Mostra os argumentos na saída padrão seguido por uma nova linha.
+  Mostra variaveis criadas.
+  exemplos de uso: echo $variavel
 
 
 env
@@ -70,7 +71,7 @@ mkdir
 
 
 nome="fulano
-  Descrição do comando
+  Cria a variável nome.
 
 
 passswd
