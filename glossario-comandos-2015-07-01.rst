@@ -4,32 +4,35 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: Matheus Christian Pereira Bezerra
+:Matrícula: 20121144010095
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  Unir, criar e exibir arquivos, ou seja, concatenar arquivos.
+  exemplos de uso: cat .bashrc   
 
 
 cd
-  Descrição do comando
+  Mudar de diretório ou volta para seu dirétório inicial. 
+  exemplos de uso: Mudar diretório ===> cd src | Voltar para diretório inicial ===> cd
 
 
 cowsay
-  Descrição do comando
+  É um mensageiro com animações, para promover uma interatividade entre os usuários.
+  exemplos de uso: cowsay "Será que a vaca foi para o brejo?"
 
 
 echo
-  Descrição do comando
+  Mostra os argumentos na saída padrão seguido por uma nova linha.
 
 
 env
-  Descrição do comando
+  Executa um programa em um ambiente modificado.
 
 
 exit
-  Descrição do comando
+  Serve para dar um logout no usuário logado.
 
 
 help
@@ -37,15 +40,16 @@ help
 
 
 HISTTIMEFORMAT="%d/%m/%y"
-  Descrição do comando
+  Serve para acrescentar a hora e a data no comando history.
+  exemplos de uso: echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bashrc
 
 
 hostname
-  Descrição do comando
+  Informa o nome do computador na rede.
 
 
 ifconfig
-  Descrição do comando
+  Configurar as insterfaces de rede.
 
 
 last
@@ -57,11 +61,12 @@ lastb
 
 
 ls
-  Descrição do comando
+  Lista arquivos existentes do diretório
 
 
 mkdir
-  Descrição do comando
+  Criar diretório e pasta.
+  exemplos de uso: mkdir fusca.
 
 
 nome="fulano
@@ -69,11 +74,11 @@ nome="fulano
 
 
 passswd
-  Descrição do comando
+  Mudar senha do usuário.
 
 
 pwd
-  Descrição do comando
+  Informa a rota na qual o usuário esta situado.
 
 
 set
@@ -89,7 +94,7 @@ tty
 
 
 vim
-  Descrição do comando
+  Serve para editar textos.
 
 
 wait
@@ -109,12 +114,13 @@ while
 
 
 who
-  Descrição do comando
+  Informa o nome de todos os usuários logados na rede.
 
 
 whoami
-  Descrição do comando
+  Informa o nome do seu usuário.
 
 write
-  Descrição do comando
+  Permite escrever informações e trocar de mensagens com outro usuário.
+  exemplo de uso: write matheus "Olá, mundo!"
 
